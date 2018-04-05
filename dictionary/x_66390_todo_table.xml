@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="todo Table" max_length="40" name="x_66390_todo_table" type="collection"/>
+    <element label="todo Table" max_length="40" name="x_66390_todo_table" type="collection">
+        <element label="duedate" max_length="40" name="duedate" type="glide_date_time"/>
+        <element label="Taskname" mandatory="true" max_length="100" name="taskname" type="string"/>
+    </element>
 </database>

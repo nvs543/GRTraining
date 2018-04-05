@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="taskname" label="TaskName" language="en" table="x_66390_todo_todo_completed">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>taskname</element>
+            <help/>
+            <hint/>
+            <label>TaskName</label>
+            <language>en</language>
+            <name>x_66390_todo_todo_completed</name>
+            <plural>TaskNames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 04:14:56</sys_created_on>
+            <sys_id>e90985194fd913006c2eb5e18110c7d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TaskName</sys_name>
+            <sys_package display_value="todo" source="x_66390_todo">94f605d54fd913006c2eb5e18110c7bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="todo">94f605d54fd913006c2eb5e18110c7bd</sys_scope>
+            <sys_update_name>sys_documentation_x_66390_todo_todo_completed_taskname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 04:14:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="todo_completed" max_length="40" name="x_66390_todo_todo_completed" type="collection">
+        <element label="TaskName" max_length="100" name="taskname" read_only="true" type="string"/>
+    </element>
+</database>
